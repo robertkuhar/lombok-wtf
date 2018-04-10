@@ -1,6 +1,8 @@
 # lombok-wtf
 
 WingDings takes a look at Project Lombok (https://projectlombok.org/) April 2018.
+This repo loosely follows ["Reducing Boilerplate Code with Project Lombok"](http://jnb.ociweb.com/jnb/jnbJan2010.html) 
+by Michael Kimberlin.
 
 
 ## Building
