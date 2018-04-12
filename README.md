@@ -22,5 +22,6 @@ BUILD SUCCESSFUL in 1s
 | Link                                         | Notes                                                              |
 | -------------------------------------------- | ------------------------------------------------------------------ |
 | https://projectlombok.org/                   | Project Lombok Home                                                |
+| https://projectlombok.org/features/all       | Lombok Features summary                                            |
 | http://jnb.ociweb.com/jnb/jnbJan2010.html    | Reducing Boilerplate Code with Project Lombok by Michael Kimberlin |
 | https://github.com/franzbecker/gradle-lombok | Gradle Plug-in for Lombok Support                                  |
